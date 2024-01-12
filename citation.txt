@@ -1,0 +1,7 @@
+@inproceedings{REPO097,
+    author = "Kienzle, Wolf and Whitmire, Eric and Rittaler, Chris and Benko, Hrvoje",
+    booktitle = "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+    pages = "1--12",
+    title = "{Electroring: Subtle pinch and touch detection with a ring}",
+    year = "2021"
+}
